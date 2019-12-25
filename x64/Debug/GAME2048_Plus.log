@@ -1,0 +1,6 @@
+﻿  DFS_2048.c
+f:\software\game2048_plus\dfs_2048.c(7): warning C4005: “NGIF”: 宏重定义
+  f:\software\game2048_plus\gamestruct.h(29): note: 参见“NGIF”的前一个定义
+f:\software\game2048_plus\dfs_2048.c(8): warning C4005: “PGIF”: 宏重定义
+  f:\software\game2048_plus\gamestruct.h(30): note: 参见“PGIF”的前一个定义
+  GAME2048_Plus.vcxproj -> F:\software\GAME2048_Plus\x64\Debug\GAME2048_Plus.exe
