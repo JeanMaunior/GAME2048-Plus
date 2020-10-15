@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1575012434 source:g:\game_2048\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1575012532 g:\game_2048\stack.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1575012484 source:g:\game_2048\stack.c
+	"stack.h"
+
+1575542898 source:g:\software_project\game_2048\main.c
+	<stdio.h>
+	<stdlib.h>
+	"gamestruct.h"
+
+1575014530 g:\software_project\game_2048\stack.h
+	"gamestruct.h"
+
+1575612412 source:g:\software_project\game_2048\stack.c
+	"gamestruct.h"
+
+1575614140 source:g:\software_project\game_2048\filewrite.c
+	"gamestruct.h"
+
+1575014600 g:\software_project\game_2048\filewrite.h
+	"gamestruct.h"
+
+1575515736 g:\software_project\game_2048\gamestruct.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<ctype.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+
+1575623536 source:g:\software_project\game_2048\game_2048.c
+	"gamestruct.h"
+
+1575513168 source:g:\software_project\game_2048\dfs.c
+	"gamestruct.h"
+
+1575515222 source:g:\software_project\game_2048\console.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<mmsystem.h>
+	"gamestruct.h"
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1575691800 source:g:\software_project\game_2048\dfs_2048.c
+	"gamestruct.h"
+

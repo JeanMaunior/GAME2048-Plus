@@ -1,0 +1,10 @@
+     0             chchwww
+     2             chchwww
+     4             chchwww
+     6             chchwww
+     8             chchwww
+    10             chchcccc
+    12             chchwww
+    14             chchwww
+    16             chchwww
+    18             chchwww
